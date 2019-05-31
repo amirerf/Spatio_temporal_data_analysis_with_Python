@@ -23,7 +23,7 @@ In accordance with the NCAR recent move, I also started to switch to these libra
 
 https://github.com/amirerf/Spatio_temporal_data_analysis_with_Python
 
-Besides PyNIO and PyNGL, xarray is the other library that I extensively use in conducting spatiotemporal analysis. Xarray is an open source python package specifically developed for working with labelled multi-dimensional arrays in python. Xarray structure is very similar to NumPy and heavily borrows from Pandas with a distinct advantage that it allows the use of labeled arrays in the form of dimensions, coordinates and attributes on top of raw NumPy-like arrays. As a result, xarray can seamlessly work with netCDF files and tightly integrate with dask for parallel computing. You can find more information about xarray here:
+Besides PyNIO and PyNGL, xarray is the other library that I extensively use in conducting spatiotemporal analysis. Xarray is an open source python package specifically developed for working with labelled multidimensional arrays. Xarray structure is very similar to NumPy and heavily borrows from Pandas with a distinct advantage that it allows the use of labeled arrays in the form of dimensions, coordinates and attributes on top of raw NumPy-like arrays. As a result, xarray can seamlessly work with netCDF files and tightly integrate with dask for parallel computing. You can find more information about xarray here:
 
 http://xarray.pydata.org/en/stable/index.html
 
